@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Hand+Pre:wght@400..700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Matangi:wght@300..900&display=swap');
+/*
+.edu-nsw-act-hand-pre-<uniquifier> {
+  font-family: "Edu NSW ACT Hand Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+  */
+/*
+ .matangi-<uniquifier> {
+  font-family: "Matangi", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+  */
+
+
+body {
+
+  background-color: rgba(231, 218, 156, 0.29);
+
+  h1 {
+   font-family: "Edu NSW ACT Hand Pre", cursive;
+
+  }
+  
+p {
+  font-family: "Matangi", sans-serif;
+
+  color: #9447cc;
+}
+a {
+   font-family:"Edu NSW ACT Hand Pre", cursive;
+  color: #c4bbe8;
+}
+.fuentediferentep{
+font-family: "Edu NSW ACT Hand Pre", cursive;
+}
+
+.fycolorp{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(129, 182, 232);
+ 
+}
+
+.coloryfuentep{ font-family: 'Courier New', Courier, monospace;
+color: cornflowerblue;
+}
+
+#colorp{
+  color:rgb(137, 128, 220)
+}
+ .fycolort{
+  font-family: Arial, Helvetica, sans-serif;
+  color:coral
+ 
+}
+#colort{
+  color:rgb(210, 65, 154)
+}
+.coloryfuentet{ font-family: 'Courier New', Courier, monospace;
+color: rgb(233, 138, 29);
+}
+}
